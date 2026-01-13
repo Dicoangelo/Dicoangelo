@@ -17,14 +17,11 @@ jobs:
     timeout-minutes: 10
 
     steps:
-      - name: Generate Snake
-        uses: Platane/snk@v2
+      - name: Generate github-contribution-grid-snake.svg
+        uses: Platane/snk/svg-only@v3
         with:
-          github_user_name: Blackamethyst-ai
-          svg_out_path: dist/github-snake.svg
-          gif_out_path: dist/github-snake.gif
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          github_user_name: ${{ github.repository_owner }}
+          outputs: dist/github-snake.svg?palette=github-dark
 
       - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v4
