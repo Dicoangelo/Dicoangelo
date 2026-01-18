@@ -123,6 +123,28 @@ AI-powered positioning, skill graphs, multi-agent hiring simulation. Reclaim age
 
 </td>
 </tr>
+<tr>
+<td width="50%" valign="top">
+
+### [Meta-Vengine](https://github.com/Dicoangelo/meta-vengine) `v1.0`
+**The Invention Engine**
+
+Bidirectional co-evolution system. Claude analyzes its own patterns and modifies its own instructions. The flywheel that improves itself.
+
+`Python` `JavaScript` `Co-Evolution`
+
+</td>
+<td width="50%" valign="top">
+
+### [The-Decosystem](https://github.com/Dicoangelo/The-Decosystem)
+**Ecosystem Blueprint**
+
+The architectural blueprint for sovereign AI. Uncovering untapped value, synthesizing data streams, building sovereign outputs.
+
+`Architecture` `Blueprint` `Ecosystem`
+
+</td>
+</tr>
 </table>
 
 <br/>
