@@ -179,6 +179,7 @@ AI-powered positioning, skill graphs, multi-agent hiring simulation. Reclaim age
 | **Public Repos** | 8 |
 | **Ecosystem Components** | 6 Active |
 | **Primary Languages** | TypeScript, Python |
+| **Security** | Audited ✓ |
 | **Status** | Building in Public |
 
 </div>
