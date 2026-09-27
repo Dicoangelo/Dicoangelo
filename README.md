@@ -280,7 +280,6 @@ Personal portfolio site showcasing the full Antigravity ecosystem. Built on the 
 | **Tool Events** | 69,016 |
 | **Self-Heal Repairs** | 9,153 |
 | **Cache Efficiency** | 99.88% |
-| **DQ Score Average** | 0.889 |
 | **Custom Skills** | 17 |
 | **Automation Hooks** | 35 |
 | **CI Status** | All green |
