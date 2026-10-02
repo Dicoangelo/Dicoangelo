@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=false&repeat=true&width=700&height=40&lines=38+repos+%7C+MCP+protocol+%7C+Multi-agent+orchestration+%7C+900K%2B+LOC" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=false&repeat=true&width=700&height=40&lines=44+repos+%7C+MCP+protocol+%7C+Multi-agent+orchestration+%7C+900K%2B+LOC" alt="Typing SVG" />
 
 <br/>
 
@@ -37,14 +37,14 @@
 
 > *"Let the invention be hidden in your vision."*
 
-I build **sovereign AI agent infrastructure** — multi-agent orchestration, MCP protocol servers, evaluation systems, and self-improving routing engines. 38 repositories, 900K+ lines of production code, all CI green. Not prototypes. Production systems with real metrics.
+I build **sovereign AI agent infrastructure** — multi-agent orchestration, MCP protocol servers, evaluation systems, and self-improving routing engines. 44 repositories, 900K+ lines of production code, all CI green. Not prototypes. Production systems with real metrics.
 
 <br/>
 
 ```
 ┌──────────────────────────────────────────────────────────────────────────────────┐
 │                    ANTIGRAVITY — SOVEREIGN AI INFRASTRUCTURE                     │
-│                         38 repos  •  900K+ LOC  •  All CI green                 │
+│                         44 repos  •  900K+ LOC  •  All CI green                 │
 ├──────────────────────────────────────────────────────────────────────────────────┤
 │                                                                                  │
 │  ┌─────────────┐    ┌─────────────┐    ┌─────────────┐    ┌─────────────┐      │
@@ -130,7 +130,7 @@ Forensic evidence generation system — SSL cert of AI, Stripe-for-compliance mo
 ### [ResearchGravity](https://github.com/Dicoangelo/ResearchGravity) `v5.0`
 **Research Intelligence + MCP Servers**
 
-8,156 sessions, 33,240 findings, 69K tool events. 21 MCP tools for knowledge graph, hybrid search, and coherence detection. Temporal knowledge graph + ReACT synthesis.
+6,914 sessions, 33,240 findings, 148K tool events. 21 MCP tools for knowledge graph, hybrid search, and coherence detection. Temporal knowledge graph + ReACT synthesis.
 
 `Python` `SQLite` `Qdrant` `MCP`
 
@@ -186,7 +186,7 @@ AI-powered portfolio optimization with 80+ factors, episodic learning (CVRF), an
 ### [UCW](https://github.com/Dicoangelo/ucw)
 **Universal Cognitive Wallet**
 
-Cross-platform AI session capture via MCP. 12.15M graph links, $META token, cognitive equity protocol. Captures semantic layers across Claude, ChatGPT, and Gemini.
+Cross-platform AI session capture via MCP. 20.16M graph links, $META token, cognitive equity protocol. Captures semantic layers across Claude, ChatGPT, and Gemini.
 
 `Python` `MCP` `Cross-Platform`
 
@@ -267,15 +267,15 @@ Personal portfolio site showcasing the full Antigravity ecosystem. Built on the 
 
 | Metric | Value |
 |:------:|:-----:|
-| **Repositories** | 38 |
+| **Repositories** | 44 |
 | **Lines of Code** | 900K+ |
 | **MCP Tools** | 58 (2 servers) |
 | **Agent Council** | 11 specialists |
 | **Tests** | 212 passing |
 | **Routing Accuracy** | 93.1% |
-| **Graph Links** | 12.15M |
-| **Cognitive Events** | 140,732 |
-| **Sessions Captured** | 8,156 |
+| **Graph Links** | 20.16M |
+| **Cognitive Events** | 275,796 |
+| **Sessions Captured** | 6,914 |
 | **Findings Extracted** | 33,240 |
 | **Tool Events** | 69,016 |
 | **Self-Heal Repairs** | 9,153 |
